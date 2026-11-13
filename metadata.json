@@ -1,0 +1,8 @@
+{
+  "name": "Remix Astra Study AI",
+  "description": "An intelligent, personalized study companion for 2nd PUC and KCET students to master concepts and optimize exam preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

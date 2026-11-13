@@ -1,0 +1,42 @@
+{
+  "chapters": [],
+  "pdfs": [],
+  "tutorMessages": [],
+  "flashcards": [],
+  "formulas": [],
+  "questionsBank": [],
+  "quizAttempts": [],
+  "doubts": [],
+  "studyPlanConfig": {
+    "boardExamDate": "2027-03-01",
+    "kcetExamDate": "2027-04-18",
+    "dailyHours": 4,
+    "weakSubjects": [
+      "physics",
+      "mathematics"
+    ],
+    "includeBacklog": true,
+    "revisionFrequencyDays": 3
+  },
+  "studySessions": [],
+  "memoryDrills": [],
+  "lastMinuteSheets": [],
+  "settings": {
+    "studentName": "PUC Scholar",
+    "theme": "dark",
+    "includeBiology": false,
+    "enabledSubjects": [
+      "physics",
+      "chemistry",
+      "mathematics"
+    ],
+    "activeAcademicYear": "PUC_1",
+    "dailyGoalMinutes": 180,
+    "studyMinutesToday": 0,
+    "streakDays": 0,
+    "lastStudyDate": "2026-11-13",
+    "lastOpenedChapterId": null,
+    "revisionHistoryDates": [],
+    "workspaceInitializedClean": true
+  }
+}
